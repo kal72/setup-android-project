@@ -1,10 +1,10 @@
 package id.kal.setupandroidproject.service;
 
-import com.watoon.ingathutang.common.ApiUrl;
 
 import java.util.concurrent.Executors;
 import java.util.concurrent.TimeUnit;
 
+import id.kal.setupandroidproject.common.ApiUrl;
 import okhttp3.OkHttpClient;
 import okhttp3.logging.HttpLoggingInterceptor;
 import retrofit2.Retrofit;

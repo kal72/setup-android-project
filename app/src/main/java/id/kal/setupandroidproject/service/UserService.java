@@ -1,12 +1,13 @@
 package id.kal.setupandroidproject.service;
 
-import com.watoon.ingathutang.common.ApiUrl;
-import com.watoon.ingathutang.model.User;
 
+import id.kal.setupandroidproject.common.ApiUrl;
+import id.kal.setupandroidproject.model.User;
 import retrofit2.Call;
 
 /**
  * Created by Kristiawan on 21/04/18.
+ * this class for example
  */
 public class UserService extends BaseService<UserApi> {
 
